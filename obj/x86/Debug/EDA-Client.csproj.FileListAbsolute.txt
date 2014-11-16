@@ -1,0 +1,4 @@
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\bin\Debug\EDA-Client.exe
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\bin\Debug\EDA-Client.pdb
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\obj\x86\Debug\EDA-Client.exe
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\obj\x86\Debug\EDA-Client.pdb

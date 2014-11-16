@@ -1,0 +1,9 @@
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\bin\Debug\EDA-Client.exe
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\bin\Debug\EDA-Client.pdb
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\obj\x86\Debug\EDA-Client.exe
+C:\Users\SAR\AppData\Local\Temporary Projects\EDA-Client\obj\x86\Debug\EDA-Client.pdb
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Client\EDC-Client\bin\Debug\EDC-Client.exe
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Client\EDC-Client\bin\Debug\EDC-Client.pdb
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Client\EDC-Client\obj\x86\Debug\EDC-Client.csprojResolveAssemblyReference.cache
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Client\EDC-Client\obj\x86\Debug\EDC-Client.exe
+C:\Users\SAR\Documents\Visual Studio 2010\Projects\EDC-Client\EDC-Client\obj\x86\Debug\EDC-Client.pdb
