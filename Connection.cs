@@ -201,6 +201,11 @@ namespace EDC_Client
                 while (_mainStream.DataAvailable)
                     buffer.Add(Convert.ToByte(_mainStream.ReadByte()));
 
+                //Prüfen auf Heartbeat
+                if (buffer.Count == 3)
+                    if (_heartBeatPackage.SequenceEqual(buffer.ToArray()))
+                        return "_heartbeat_";
+
                 //Nachricht(byte[]) entschlüsseln und zurückgeben
                 string output = _cryptClass.decryptMessage(buffer.ToArray());
                 return output;
